@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lauf</string>
+    <string name="bt_run">Run</string>
+    <string name="bt_gym">Gym</string>
+    <string name="bt_feed">Feed</string>
+    <string name="bt_profile">Profile</string>
+</resources>
